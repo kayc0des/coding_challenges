@@ -19,4 +19,4 @@ Each challenge requires writing a full application or tool. The projects are sel
 
 ## Repo Structure
 
-- **wc_tool:** The wc (word count) tool is a command-line utility in Unix-based operating systems that counts the number of lines, words, and characters in a file or input text. It's a simple yet powerful tool often used for text processing.
+- **00-wc_tool:** The wc (word count) tool is a command-line utility in Unix-based operating systems that counts the number of lines, words, and characters in a file or input text. It's a simple yet powerful tool often used for text processing.
