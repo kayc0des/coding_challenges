@@ -1,5 +1,18 @@
 # A Comprehensive Guide to Python's argparse Module
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [What is argparse?](#what-is-argparse)
+- [Basic Usage](#basic-usage)
+- [Adding Arguments](#adding-arguments)
+- [Parsing Arguments](#parsing-arguments)
+- [Accessing Arguments](#accessing-arguments)
+- [Handling Errors](#handling-errors)
+- [Example: Putting it all together](#example-putting-it-all-together)
+- [Advanced Features](#advanced-features)
+- [Conclusion](#conclusion)
+
 ## Introduction
 
 In Python programming, handling command-line arguments is a common necessity, especially for scripts intended for automation, data processing, or administrative tasks. Python's argparse module provides a powerful yet easy-to-use tool for parsing command-line arguments. This guide delves into the argparse module, covering its key features and illustrating its use with practical examples.
